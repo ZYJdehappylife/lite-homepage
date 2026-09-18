@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "轻主页 Lite New Tab",
+  "version": "1.0.0",
+  "description": "极简 / 收藏夹双模式新标签页：必应每日壁纸、毛玻璃与磨砂效果、分组与图标可拖拽调整大小与圆角。",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "permissions": [
+    "storage",
+    "favicon",
+    "unlimitedStorage"
+  ],
+  "host_permissions": [
+    "https://cn.bing.com/*",
+    "https://www.bing.com/*",
+    "https://*.bing.com/*"
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_title": "轻主页"
+  }
+}
