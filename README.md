@@ -1,9 +1,14 @@
-# 轻主页 · Lite New Tab
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/707abe21-348e-4cc2-bac1-d07e53b7c6b4" /># 轻主页 · Lite New Tab
 
 一个从零写的浏览器新标签页扩展（Manifest V3，Chrome / Edge / Brave 通用）。
 两种模式、毛玻璃质感、分组与图标全部可视化拖拽调整。
 
 ---
+![Uploading image.png…](1.png)
+![Uploading image.png…](1.png)
+![Uploading image.png…](1.png)
+![Uploading image.png…](1.png)
+
 
 ## 一、安装（加载已解压的扩展）
 
