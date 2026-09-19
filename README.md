@@ -5,9 +5,9 @@
 
 ---
 ![Uploading image.png…](1.png)
-![Uploading image.png…](1.png)
-![Uploading image.png…](1.png)
-![Uploading image.png…](1.png)
+![Uploading image.png…](2.png)
+![Uploading image.png…](3.png)
+![Uploading image.png…](4.png)
 
 
 ## 一、安装（加载已解压的扩展）
